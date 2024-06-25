@@ -11,6 +11,7 @@ public class HashSetDemo {
 		intSet.add(2);
 		intSet.add(3);
 		intSet.add(2);
+	//	intSet.add(4);
 		intSet.add(null);
 		intSet.add(1);
 		
